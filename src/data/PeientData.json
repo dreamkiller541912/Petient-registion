@@ -1,0 +1,36 @@
+{
+  "Hospital": {
+    "name": "City Central Hospital",
+    "location": "Valsad, Gujarat",
+    "contact": "02632-123456"
+  },
+  "petient": [
+    {
+      "firstname": "patel",
+      "lastname": "meet",
+      "Gnder": "male",
+      "phone": "9876543210",
+      "email":"meet@gmail.com",
+      "address": "Valsad, Gujarat",
+      "Blood group":"a+"
+    },
+    {
+      "firstname": "patel",
+      "lastname": "ab",
+      "Gnder": "male",
+      "phone": "987654n10",
+      "email":"abc@gmail.com",
+      "address": "Valsad, Gujarat",
+      "Blood group":"o+"
+    },
+    {
+      "firstname": "patel",
+      "lastname": "xyz",
+      "Gnder": "female",
+      "phone": "9876453210",
+      "email":"xyz@gmail.com",
+      "address": "Valsad, Gujarat",
+      "Blood group":"a+"
+    }
+  ]
+}
